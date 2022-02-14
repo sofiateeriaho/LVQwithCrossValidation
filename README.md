@@ -1,9 +1,4 @@
----
-title: "README"
-tags: ""
----
-
-University course assignment to model a 5-fold cross validation using the supervised classification algorithm LVQ in Matlab
+University course assignment to model **5-fold cross validation** using the supervised classification algorithm LVQ in Matlab
 
 [`lvqdata.csv`](lvqdata.csv) is the dataset used, containing 100 two-dimensional feature vectors, 50% belonging to class 1 and 50% to class 2.
 
